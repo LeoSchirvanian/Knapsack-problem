@@ -1,0 +1,14 @@
+tp3 :
+
+Ce TP a été codé en C sous Linux Ubuntu 18.04.
+Le Makefile dans le dossier permet de compiler le programme.
+Rendez-vous dans le fichier contenant le code dans le terminal et tapez make pour compiler.
+
+L'éxécutable se nomme tp3.
+Sous linux, tapez par exemple './tp3 p1000_5/P56_2.dat' pour lancer l'éxécutable avec le fichier P56_2.dat.
+Pour nettoyer le dossier, tapez 'make clean'.
+
+Il y a aussi un script en bash qui permet de lancer l'éxécutable avec les 25 fichiers de données dans p1000_5.
+Tapez './tp3.sh' pour lancer le script.
+
+Tous les résultats pour les 25 fichiers de données se trouvent en fin du fichier tp3.c en commentaire.
